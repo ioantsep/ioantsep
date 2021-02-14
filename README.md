@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 **Languages and Tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<code><img height="40" src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/ICON%20-%20Black%20on%20Transparent.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/java/java.png"></code>
