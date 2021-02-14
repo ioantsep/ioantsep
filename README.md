@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 **Languages and Tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/kafka.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/Apache_kafka.svg"></code>
