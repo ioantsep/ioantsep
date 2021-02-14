@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 
 **Languages:**  
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/java/java.png"></code>
 
 
-**Tools:**  
+**Tools:** 
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/keras/keras.png"></code>
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/maven/maven.png"></code>
