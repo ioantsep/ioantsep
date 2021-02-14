@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ioantsep)
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
 
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
