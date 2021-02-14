@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: <ioantsep@gmail.com> [mailto](mailto:ioantsep@gmail.com)
+
+- 🌱 I’m learning new things everyday!!
+- 📫 How to reach me: via [email](mailto:ioantsep@gmail.com)
 
 
 
@@ -24,3 +26,4 @@ Here are some ideas to get you started:
 **Languages and Tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/kafka.png"></code>
