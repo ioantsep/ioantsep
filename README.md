@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-// README.md
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ioantsep)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ioantsep&layout=compact)
