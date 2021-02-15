@@ -26,7 +26,8 @@ https://github.com/github/explore/tree/master/topics/spark
 
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ioantsep&layout=compact)
+
+
 
 
 
