@@ -20,11 +20,13 @@ https://github.com/github/explore/tree/master/topics/spark
 -->
 
 - 🌱 I’m learning new things everyday!!
+
 - 📫 How to reach me: via [email](mailto:ioantsep@gmail.com)
 
 
 
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ioantsep&layout=compact)
 
 
 
